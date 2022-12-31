@@ -130,7 +130,7 @@ Execute the program
 
 ## Web Page:
 
-![Web Page Time Table](./img/timetable.png)
+![Web Page Time Table](./img/timetable2.png)
 
 # Result:
 
