@@ -36,7 +36,7 @@ Execute the program
     </style>
 <body>
     <img style="display:block" width="50%" height="10%" src="img/sec.png">
-    <table>
+    <table border="3" width="500" cellspacing="10" cellpadding="10">
         <tr>
             <th colspan="5" align="center"><b>TIME TABLE</b></th>
         </tr>
